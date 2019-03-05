@@ -1,0 +1,11 @@
+.resim {padding-left :70px;}
+.panel-group{width : 60%; float:right;}
+@import url('https://fonts.googleapis.com/css?family=Prociono');
+h1 {color : #575555; font-family : 'prociono'; font-weight: bold;}
+.panel-title{font-family : 'prociono'; font-weight: bold; font-style:italic; color : #575555;}
+body {background-color : #FFFFFF;}
+img{padding-right:7px;}
+.list-group{font-family : 'prociono'; font-style:italic; font-size : 15px;}
+.panel-body{font-family : 'prociono'; font-style:italic; font-size : 15px;}
+
+

@@ -1,0 +1,8 @@
+h1 {
+	color : blue;
+	font-family : Tahoma;
+	font-style : italic;
+	text-align : center;
+}
+*{color : red;} 
+tr>td {background-color : yellow;}

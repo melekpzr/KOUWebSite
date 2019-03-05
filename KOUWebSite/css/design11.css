@@ -1,0 +1,67 @@
+ /* NAVBAR CSS */
+
+ .navbar-default
+{
+	background-color:#FFFFFF;
+	border-radius:0px;
+	border-color:transparent;
+	margin-top:10px;
+	padding:6px;
+	
+	-webkit-box-shadow: 1px 3px 3px 1px #ADADAD;
+box-shadow: 1px 3px 3px 1px #ADADAD;
+	
+ }
+
+.navbar-default.navbar-brand
+{
+	color:purple;
+	font-size:20px;
+	font-family:'prociono';
+	font-weight:bold;
+	
+}
+.navbar-default.navbar-brand:hover
+{
+	color:pink;
+	font-size:20px;
+	font-family:'prociono';
+	font-weight:bold;
+	transition:color 0.5s linear;
+	
+}
+
+.navbar-default.navbar-nav >li>a
+{
+	font-size:15px;
+	font-family:times;
+	margin-left:20px;
+	color:green;	
+}
+
+.navbar-default.navbar-nav >li>a:hover
+{
+	font-size:15px;
+	font-family:times;
+	margin-left:20px;
+	color:#FFFFFF;	
+	background-color:#41A639;
+	
+	transition:color 0.5s linear;
+	transition:background-color 0.5s linear;
+}
+
+
+/* yazıları ortalama kodu*/
+.navbar.navbar-collapse
+{
+	text-align:center;
+}
+
+.navbar.navbar-nav
+{display:inline-block;
+	float:none;
+	vertical-align:top;
+}
+ 
+/* NAVBAR SON */ 

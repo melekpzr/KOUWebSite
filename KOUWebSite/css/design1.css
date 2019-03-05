@@ -1,0 +1,27 @@
+#ana_baslik {
+     color:red;
+  	
+}
+ 
+ 
+ h2{
+	 position:absolute;
+	 left:172px;
+	 top:20px;
+	 color:grey;
+ }
+ 
+ h1{
+	 position:absolute;
+	  left:170px;
+      top: 60px;
+      color:grey;
+ }
+ 
+
+#img-responsive{
+	width:10%;
+	height:10%;
+	padding:5px;
+	
+}

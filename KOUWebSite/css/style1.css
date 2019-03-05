@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Prociono');
+<!--@import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Slab');-->
+h1 {color : #575555; font-family : 'prociono';}
+.mesaj{text-align:center ; font-weight : bold ; font-size:20px; color : #306523; font-family : verdana; padding-top : 10px;}
+#sif{ padding-top:10px; padding-left:35%;}
+#sif2{ padding-top:10px; padding-left:35%;}
+#sif3{ padding-top:10px; padding-left:35%;}
+#kul{padding-top : 10px; padding-left:35%;}
+.butonlar {padding-top : 10px;}
+body {background-color : #F3F3F3;}
+.butonlar .btn-lg{background-color : #347C17; color: white; border-color : transparent;}
+img{height : 10% ;  width : 10%; margin-left: 0px;}

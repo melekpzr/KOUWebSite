@@ -1,0 +1,69 @@
+
+
+#logo{
+
+width:130px;
+height:130px;
+margin:7px;
+margin-left:100px;
+}
+
+ 
+ h2{
+	 position:absolute;
+	 left:500px;
+	 top:5px;
+	 color:grey;
+ }
+ 
+ h1{
+	 position:absolute;
+	  left:400px;
+      top: 50px;
+      color:grey;
+ }
+ 
+
+  
+ 
+ .pad50{
+	 padding:50px; 
+ }
+ 
+ 
+.btn-group{
+
+   position: absolute;
+ right: 60px;
+  bottom: 90px;
+}
+
+ .btn-icon{
+padding:0px;
+	  
+}
+.site-header-icons{
+bottom:0px;
+position:absolute;
+right:15px;
+top:0px;
+} 
+ @media(min-width:510px){
+	.site-header-icons{
+	padding-top:33px;}
+	
+	 
+	 
+	 
+ }
+ 
+.dropdown{
+ color:green;	
+} 
+ 
+ 
+
+ 
+ 
+ 
+ 

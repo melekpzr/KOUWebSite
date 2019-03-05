@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Prociono');
+h1 {color : #575555; font-family : 'prociono'; font-weight: bold;}
+body {background-color : #FFFFFF;}
+thead { background-color : #006666; color : #FFFFFF;}
+hr{width : 30%; float:left; padding-bottom:10px;}
+h3{color : #006666; font-family : 'prociono'; text-align : left; font-weight: bold; font-style:italic; }
+img{height: 40px; width: 50px; float:left; padding-right : 10px;}
